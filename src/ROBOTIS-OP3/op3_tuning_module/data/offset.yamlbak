@@ -1,0 +1,23 @@
+#mas veri
+
+offset:
+  head_pan: 0 #19
+  head_tilt: 0.37 #20
+  l_ank_pitch: 0.21 #-0.25 #-0.2 #16
+  l_ank_roll: -0.031 #18
+  l_hip_pitch: 0.23 #0.25 #12 
+  l_hip_roll: -0.08 #-0.02 #10
+  l_hip_yaw: 0.05 #0.083 #8
+  l_knee: 0.095 #14
+  l_sho_pitch: -1 #0.41 #2 #semakin kecil semakin kedepan
+  l_sho_roll: -0.1 #-0.28 #4 #semakin kecil semakin keluar
+  r_ank_pitch: 0.095 #0.1      #ngisor #15
+  r_ank_roll: 0.02 #-0.05 #17 
+  r_hip_pitch: -0.26 #-0.28 #bokong #11 semakin besar semakin ke depan
+  r_hip_roll: -0.02 #-0.07 #9
+  r_hip_yaw: -0.00 #7
+  r_knee: -0.1 #dengkul #13 semakin minus semakin ke belakang
+  r_sho_pitch: 1 #-0.4 #1 #semakin kecil semakin kebelakang
+  r_sho_roll: 0.1 #0.28 #3 #semakin besar semakin keluar
+  r_el: 0.9 #0.5 #5 #semakin besar semakin keluar
+  l_el: -0.9 #-0.4 #6 #semakin kecil semakin keluar
